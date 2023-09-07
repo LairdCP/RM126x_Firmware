@@ -50,6 +50,6 @@ The Factory Image can be flashed to a module to restore it to the factory state.
 [RM126x DVK user guide]: <https://www.lairdconnect.com/documentation/user-guide-rm126x-development-kit>
 [Native C development guide]: <https://www.lairdconnect.com/documentation/user-guide-lyra-series-c-code-development>
 [Firmware options and upgrade guide]: <https://www.lairdconnect.com/documentation/user-guide-firmware-options-and-upgrading-rm126x-series>
-[RM126x Releases Page]: <https://github.com/LairdCP/RM126x_Firmware/releases/tag/GA1>
+[RM126x Releases Page]: <https://github.com/LairdCP/RM126x_Firmware/releases/tag/GA1.1>
 [Semtech SX1261 product page]: <https://www.semtech.com/products/wireless-rf/lora-connect/sx1261>
 [Semtech SX1262 product page]: <https://www.semtech.com/products/wireless-rf/lora-connect/sx1262>
